@@ -1,4 +1,4 @@
-# pharmacymanagementsystemPharmacy Management In PHP with source code
+Pharmacy Management In PHP And SQL
 
 Please scroll down and click on the download button to download the Pharmacy management project for free
 
